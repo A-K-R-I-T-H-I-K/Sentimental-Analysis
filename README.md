@@ -33,7 +33,7 @@ Computational Complexity: Random Forest can be computationally expensive when de
 
 Interpretability: While feature importance is available, the overall decision-making process can be challenging to interpret.
 
-Applications:
+## Applications:
 Market Sentiment Monitoring: Track shifts in market sentiment towards gold.
 
 Investment Decision Support: Use sentiment analysis to support investment strategies.
